@@ -1,0 +1,31 @@
+_repo: A-short-history-of-the-Norman-Conquest-of-England_68963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, E. A. (Edward Augustus)
+    - Freeman, Edward Augustus
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68963'
+language: en
+pgterms:marc905: 20220212153257freeman
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Charlie Howard and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :The Clarendon Press,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A short history of the Norman Conquest of England
+url: http://www.gutenberg.org/ebooks/68963
